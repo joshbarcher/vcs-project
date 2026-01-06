@@ -1,1 +1,1 @@
-const server = "Hello";
+/* example VCS project */
